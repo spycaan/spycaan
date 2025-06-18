@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://lanyard.cnrad.dev/api/402168029733060618?hideDiscriminator=true&idleMessage=Discord: spycxnn" alt="Discord Presence" />
-</div>
-
----
 
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
