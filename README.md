@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://lanyard.cnrad.dev/api/000000000000000000?hideDiscriminator=true&idleMessage=Discord: spycaan" alt="Discord Presence" />
+  <img src="https://lanyard.cnrad.dev/api/402168029733060618?hideDiscriminator=true&idleMessage=Discord: spycxnn" alt="Discord Presence" />
 </div>
 
 ---
