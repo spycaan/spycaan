@@ -1,16 +1,24 @@
-<p href="https://api.lanyard.rest/v1/users/739416181236301885" align="center" width="1000px">
-    <img src="https://lanyard.cnrad.dev/api/739416181236301885?borderRadius=30px"/>
-</p>
+<div align="center">
+  <img src="https://lanyard-profile-readme.vercel.app/api/402168029733060618" />
+</div>
 
+---
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,cs,vscode,js,css,html,go,perl,cpp" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-68217A?style=flat&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Perl-39457E?style=flat&logo=perl&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+</div>
 
-<p href="https://discord.com/users/739416181236301885" align="center">
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=spycaan&theme=tokyonight&show_icons=true">
-</p>
+---
 
-
+<div align="center">
+  <blockquote><strong>Bir gün herkes için hesaplaşma zamanı gelir.</strong></blockquote>
+</div>
